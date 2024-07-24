@@ -1,0 +1,15 @@
+.hoverd{
+  color: #007bff;
+}
+.blueborder{
+  border-color: #007bff;
+}
+.dark_bg{
+  background-color: #212529;
+}
+.radius{
+  border-radius: 25px;
+}
+.overflowy-hidden {
+  overflow-y: hidden;
+} 
